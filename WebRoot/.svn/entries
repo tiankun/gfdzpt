@@ -1,0 +1,227 @@
+10
+
+dir
+1030
+https://10.0.0.91/svn/java/gfdzpt/WebRoot
+https://10.0.0.91/svn/java
+
+
+
+2015-06-02T01:23:07.802500Z
+1017
+tiank
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+customer
+dir
+
+ds
+dir
+
+error.jsp
+file
+
+
+
+
+2015-06-03T06:52:58.739000Z
+db72fcc1b8c9344e7f0db010fe7aa476
+2014-09-28T02:13:36.005250Z
+12
+liaows
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4123
+
+error2.jsp
+file
+
+
+
+
+2015-06-03T06:53:24.572000Z
+ff46df8eac4c3bbbbea283a1ef06c784
+2014-09-28T02:13:36.005250Z
+12
+liaows
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1409
+
+fi
+dir
+
+gm
+dir
+
+hr
+dir
+
+image
+dir
+
+images
+dir
+
+index.jsp
+file
+
+
+
+
+2015-06-03T06:53:22.965000Z
+44fca2b01da4acbb9910fad0d36133ae
+2014-09-28T02:13:36.005250Z
+12
+liaows
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+113
+
+jscripts
+dir
+
+materiel
+dir
+
+materielapply
+dir
+
+materielpurchase
+dir
+
+materielpurchasemodify
+dir
+
+photo
+dir
+
+pr
+dir
+
+qudong
+dir
+
+supplier
+dir
+
+sysAdmin
+dir
+
+temp
+dir
+
+up.html
+file
+
+
+
+
+2015-06-03T06:53:01.032000Z
+c00c84d2d67a8cb43d8fbb0877bf91fa
+2014-09-28T02:13:36.005250Z
+12
+liaows
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1920
+

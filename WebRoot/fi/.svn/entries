@@ -1,0 +1,46 @@
+10
+
+dir
+1030
+https://10.0.0.91/svn/java/gfdzpt/WebRoot/fi
+https://10.0.0.91/svn/java
+
+
+
+2014-12-25T05:08:52.954000Z
+264
+tiank
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+advance
+dir
+
+bill
+dir
+
+expenses_plan
+dir
+
+financial
+dir
+
+payfor
+dir
+
+travel
+dir
+

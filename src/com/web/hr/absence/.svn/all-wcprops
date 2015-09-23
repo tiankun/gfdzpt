@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/java/!svn/ver/77/gfdzpt/src/com/web/hr/absence
+END
+Hr_absenceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/21/gfdzpt/src/com/web/hr/absence/Hr_absenceAction.java
+END
+Hr_absence_standardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/hr/absence/Hr_absence_standardAction.java
+END
+Hr_kaoqinAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/77/gfdzpt/src/com/web/hr/absence/Hr_kaoqinAction.java
+END
+Hr_kaoqin_auditAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/hr/absence/Hr_kaoqin_auditAction.java
+END
+Hr_attendanceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/77/gfdzpt/src/com/web/hr/absence/Hr_attendanceAction.java
+END
+Hr_vacation_arrangementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/hr/absence/Hr_vacation_arrangementAction.java
+END

@@ -1,0 +1,73 @@
+10
+
+dir
+1030
+https://10.0.0.91/svn/java/gfdzpt/src/com/web
+https://10.0.0.91/svn/java
+
+
+
+2015-05-20T02:57:13.771250Z
+794
+tiank
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+archives
+dir
+
+common
+dir
+
+customer
+dir
+
+ds
+dir
+
+excel
+dir
+
+fi
+dir
+
+gm
+dir
+
+hr
+dir
+
+materiel
+dir
+
+materielapply
+dir
+
+materielpurchase
+dir
+
+message
+dir
+
+pr
+dir
+
+supplier
+dir
+
+sysAdmin
+dir
+

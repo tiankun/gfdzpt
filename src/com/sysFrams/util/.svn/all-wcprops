@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util
+END
+StrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/StrUtils.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/DateUtil.java
+END
+treeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/treeUtil.java
+END
+PhprpcJutil.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/PhprpcJutil.java
+END
+CommonProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/CommonProperties.java
+END
+IdcardUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/IdcardUtil.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/Type.java
+END
+Encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/Encrypt.java
+END
+SoftKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/SoftKey.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/Log.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/Constant.java
+END
+codeTableUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/codeTableUtil.java
+END
+CnToSpell.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/CnToSpell.java
+END
+DataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/util/DataFormat.java
+END

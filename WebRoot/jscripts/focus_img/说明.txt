@@ -1,0 +1,14 @@
+焦点图片
+使用列子
+<%--begin焦点图--%>
+            <div class="adcoind clearfix" >
+        	<div class="adc_hd">
+            	<div class="at_imgSwitch" id="at_imgSwitch" style="visibility: visible; ">
+                    <ul class="at_imgSwitch_c" style="width: 780px; left: 0px; ">
+						<%= s_adimg %>
+                    </ul>
+                </div>
+        	</div>            
+            </div>
+            <script type="text/javascript"> new at_imgSwitch("at_imgSwitch",true); </script>
+            <%--end焦点图--%>

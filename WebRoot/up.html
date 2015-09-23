@@ -1,0 +1,42 @@
+﻿<html>  
+<head>  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
+<meta http-equiv="pragma" content="no-cache" />  
+<base target="_self">  
+<title>上传</title>  
+</head>  
+<body>  
+    <h5>上传</h5><hr/>  
+     <form id="upfileform" method="post" target="hidden_frame" action="/perArch/FileUploadServlet" enctype="multipart/form-data">    
+            
+            <input type="file" name="upload_file" id="upload_file" onchange="doSubmit();" multiple="multiple" /><br />
+            <input type="hidden" name="fileUPpath" value="gg"/>
+<iframe name='hidden_frame' id="hidden_frame" ></iframe>
+
+        <div><input type="submit" value="提交"/></div>  
+    </form>  
+    <div id="_container">  </div>
+<script type="text/javascript">
+        function addFile(filename) {
+            document.getElementById('_container').insertAdjacentHTML("beforeEnd",
+        "<div id=\"" + filename + "\"><img src=\"" + filename + "\" style=\"width: 130px; height: 102px\"onclick=\"showPic(this);\" />"
+        + "<a href='/perArch/FileUploadServlet?del_filename=" + filename + "' target='hidden_frame'>删除</a></div>");
+            //document.getElementById("sjtpath").value = document.getElementById("sjtpath").value + filename + "|";
+            //document.getElementById("upLoadImg").style.display = "none";
+        }
+        function doSubmit() {
+            document.getElementById('upfileform').submit();
+        }
+        function delFile(filename) {
+            var o = document.getElementById(filename);
+            o.parentNode.removeChild(o);
+            //document.getElementById("sjtpath").value = document.getElementById("sjtpath").value.replace(filename+"|", "");
+        }
+        function err(msg) {
+            //document.getElementById("upLoadImg").style.display = "none";
+            alert(msg);
+        }
+    </script>
+
+</body>  
+</html>  

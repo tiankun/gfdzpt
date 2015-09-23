@@ -1,0 +1,144 @@
+body{margin:10px 20px auto 10px;padding:0;font-size:14px;color:Black;}
+form{ margin:0;}
+body,td,div,li{    font-size:14px;}
+img{border:0;}
+fieldset{margin:2px;border:#ccc 1pt solid; padding:0px;}
+
+.left{float:left;}
+.right{float:right;}
+.clear{clear:both; overflow:hidden; zoom:1;}
+
+.border{border:1px solid #217FC9;}
+.border1{border:#ccc 1pt solid;}
+.border_bottom{border-bottom:#217FC9 1pt solid;}
+
+.hidden{display:none;}/*����ʾ*/
+
+.word_break{word-break:break-all;word-wrap:break-word;}/*ǿ�ƻ���*/
+
+.warn { border:1px solid red; color:red;}/*��֤����*/
+
+.div-left{ width:150px; margin-left:1px;}
+.div-middle{float:left;position:relative; margin:1px;}
+.div-right{ width:730px; margin-right:1px;}
+.div-button{margin:5px;border:0px;text-align:center;}
+
+.divMod1 {background-color : #B8DDF8;border-bottom:1px solid #1771B7;height:18px;font-weight: bold;font-size: 14px; padding-top:6px;padding-left:10px;}
+.divMod2{border:1px solid #1771B7;}
+
+.search_border{BORDER-COLLAPSE: collapse;border:none;}
+.search_border td{text-align:left;width:35%;}
+.search_border th{height:20px;width:10%;text-align: right; font:bold 14px/28px simsun;}
+
+.table_border{BORDER-COLLAPSE: collapse;border: none;}
+.table_border td{border: solid #b8cce2 1px;text-align:left;}
+.table_border th{background:#f2f7fe;border: solid #b8cce2 1px;height:20px;text-align: right; font:bold 14px/28px simsun;}
+
+.dataListTable{BORDER-COLLAPSE: collapse;border: 1px solid #1771B7;line-height:22px;margin:2px auto;}
+.dataListTable td{border:1px solid #c5ddf1;text-align: center;}
+.dataListTable th{background:#B8DDF8;border:1px solid #bbbec3;height:20px;text-align: center; font:bold 14px/28px simsun;}
+.dataListTable tr:hover { background:#f1f1f1; cursor:pointer;}
+.dataListTable .btnCol{width:100px;}
+
+.link {width:80px;height:16px;padding-top:3px; margin-left:3px; text-align:center;display:inline-block;
+        color:#000;font-size: 12px;background-color:#eee; border:windowtext 1pt solid;TEXT-DECORATION: none;} 
+.linkPage{width:80px;height:16px;padding-top:3px; margin-left:3px; text-align:center;display:inline-block;cursor:pointer;
+        color:#000;font-size: 12px;background-color:#fdfdfd; border:#cecece 1pt solid;TEXT-DECORATION: none;}
+
+.button{height:21px;width:80px;padding-top:2px;background-color:#eee; border:windowtext 1pt solid;color:#000;font-size: 12px;
+        text-align:center;cursor: pointer;margin-left:3px;}
+.btn_page{width:80px;height:18px;margin-left:3px; text-align:center;padding-top:3px;TEXT-DECORATION: none;
+        color:#000;font-size: 12px;background-color:#fdfdfd; border:#cecece 1pt solid;}    
+        
+.InputFile { font-size: 12px; color: #003399; font-family: ""; font-style: normal; background-color: #fff; height:21px;
+            border: 1px #ccc solid; }        
+        
+
+.textBox{height:18px;border:#ccc 1pt solid;color:#000;font-size: 14px;}
+.textBoxNoBorder{height:18px;border:0;color:#000;font-size: 14px;}
+
+.textArea{background-color:#fff; border:#ccc 1pt solid;color:#000;font-size: 14px;}
+
+
+.dropdownlist{height:22px;border:#ccc 1pt solid;color:#000;width:75%;}
+.ddlNoBorder{height:22px;border:none;color:#000;width:75%;}
+
+
+
+.leftmenu {	width:70px;	height:70px;overflow:hidden;text-decoration:none;margin:8px auto;}
+.leftmenu img{width:70px;height:55px;margin:0px auto;}
+.leftmenu:hover {border:1px solid #BEBEBE;}
+
+
+.TreeGrid{
+	border-collapse: collapse; 
+	font-size: 11px;
+	border: 1px solid #778899;
+}
+
+.TreeGrid .header{
+	background-color: #87CEEB;
+	height:25px;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.TreeGrid td{
+	border: 1px solid #E6E6FA;
+	padding: 4px 3px 2px 3px;
+}
+
+.TreeGrid a{
+	text-decoration: underline;
+	color: black;
+}
+
+.TreeGrid a:hover{
+	color: blue;
+}
+
+.TreeGrid .image_hand{
+	border: 0;
+	cursor:hand;
+	align:absmiddle;
+}
+
+.TreeGrid .image_nohand{
+	border: 0;
+	align:absmiddle;
+}
+
+.TreeGrid .row_hover{
+	background-color: #E6E6FA;
+}
+
+.TreeGrid .row_active{
+	background-color: #E0FFFF;
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+a:active {
+	color: black;
+	text-decoration: none;
+}
+
+.kssh{border:1px solid black;}
+
+.table_border1{border: none;}
+.table_border1 td{border: solid #b8cce2 1px;}
+.table_border1 th{background:#f2f7fe;border: solid #b8cce2 1px;height:20px;text-align: right; font:bold 14px/28px simsun;}
+

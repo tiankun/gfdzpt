@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/java/!svn/ver/108/gfdzpt/src/com/sysFrams/db
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/db/Page.java
+END
+RowProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/db/RowProcessor.java
+END
+SqlTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/db/SqlTool.java
+END
+DBManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/db/DBManage.java
+END
+DataBaseControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/108/gfdzpt/src/com/sysFrams/db/DataBaseControl.java
+END
+OracleDBManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/12/gfdzpt/src/com/sysFrams/db/OracleDBManage.java
+END

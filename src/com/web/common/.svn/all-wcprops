@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common
+END
+BuildDDLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/BuildDDLUtil.java
+END
+ApproveUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/ApproveUtil.java
+END
+ApproveInfoTemp.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/ApproveInfoTemp.java
+END
+BillTypeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/BillTypeUtil.java
+END
+Approval.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/Approval.java
+END
+IInsertApprovalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/IInsertApprovalInfo.java
+END
+ApprovalPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/common/ApprovalPermission.java
+END

@@ -1,0 +1,71 @@
+10
+
+dir
+1030
+https://10.0.0.91/svn/java/gfdzpt/WebRoot/WEB-INF
+https://10.0.0.91/svn/java
+
+
+
+2014-10-21T03:45:30.702125Z
+51
+liaows
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+classes
+dir
+
+lib
+dir
+
+tld
+dir
+
+web.xml
+file
+
+
+
+
+2015-06-03T06:53:00.782000Z
+28895bff866f7176fd65acc2188c3182
+2014-09-28T02:13:36.005250Z
+12
+liaows
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3236
+

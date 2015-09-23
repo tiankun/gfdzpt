@@ -1,0 +1,203 @@
+@CHARSET "GBK";
+/*设置整体的字体大小*/
+*{font-size: 12px;}
+/*设置页面占据整个窗口大小*/
+body{
+   scrollbar-base-color:#e0ecff;
+ scrollbar-arrow-color:#FFFFFF;
+ scrollbar-shadow-color:#c1ea8b;
+ padding:0px;
+ margin:auto;
+ text-align:center;	
+	
+   margin-top:0px;
+   margin-bottom:0px;
+   margin-right:0px;
+   margin-left:0px;
+/*设置背景图片*/   
+   background: ../images/water.gif;
+/*设置背景渐变  
+   filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#0000FF,endcolorstr=#86CEFF,gradientType=0);
+*/   
+}
+/*设置主界面分割页面主题颜色*/
+.SpiltPageBody
+{
+	background-color:#6EB0FA;
+}
+/*设置表格样式*/
+table{
+border-collapse:collapse;
+border-color:#94BAE7;
+/*定义表格线条，线条，颜色样式*/
+/*border:1px dotted blue;*/
+}
+/*表格高度，字数多了自动换行*/
+td{
+/*定义虚线表格*/
+/*border:1px dotted #000000; */
+word-break:break-all;
+border-color:#94BAE7;
+}
+select{
+width: 72%;
+}
+/*定义超链接样式*/
+A:visited {color:#000000;text-decoration: none;}/*visited表示被访问后,链接颜色为灰色,链接无下划线.*/
+A:hover {BACKGROUND－COLOR: #ffccff; COLOR: #0080ff;border-bottom:1px dashed #51bfe0}/*链接文字背景色为＃ffccff;前景色为＃0080ff*/
+A:link {color:#000000;text-decoration: none}/*link表示未被访问时,链接颜色为黑色,链接无下划线.*/
+A:active {color:green;text-decoration: none}
+
+/********************用于数据列表页面***********************/
+.tHead{
+    height: 20px;
+	background-color: #308dbb;
+	color: white;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	text-align: left;
+	padding-right: 3px;
+	padding-left: 3px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin: 0px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-color: white;
+    text-align:center;
+}
+.header{width:100%;border:0px;background:url(../images/title.bmp);}
+.header td{text-align:center;height:30px;}
+.header span{font-weight: bold;font-size: 14px;color:black;}
+
+.searchtable{width:100%;border-collapse:collapse;border-spacing:0px;padd:expression(this.cellPadding=0);}
+.searchtable td{border:1px dotted  #6CA3E2;height:25px;}
+.searchtable td.fieldLable{text-align:center;background-color:#eaf9e5;}
+.searchtable td.fieldValue{text-align:left;}
+.searchtable td.fieldValue input{width:180px;}
+.searchtable td.fieldValue select{width:187px;}
+
+.showtable{width:100%;}
+.showtable td{height:25px;}
+.showtable td.head{text-align:center;background-color:#cbf1c0;font-weight: bold;}
+.showtable td.head2{text-align:center;background-color:#eaf9e5;}
+.showtable td.fieldLable{text-align:left;background-color:#eaf9e5;}
+.showtable td.fieldValue{}
+
+.listtable{width:100%;}
+.listtable td{border:1px dotted blue;height:25px;text-align:center;}
+.listtable tr.head td{background-color:#bfe7b2;font-weight: bold;}
+/*只读样式*/
+.readOnly{background-color:#f6f4f5;}
+/*红色样式*/
+.red{color:#ff0000;}
+/*蓝色样式*/
+.blue{color:#0000ff;}
+/*.myList tr{*/
+/*设定表格隔行换色*/
+/*<c:forEach items="${list}" var="item" varStatus="s"> 
+bgcolor="<c:if test='${s.index%2==1}'>#EFF6FE</c:if>" onMouseOut="this.style.backgroundColor=''" onMouseOver="this.style.backgroundColor='#fdecae'"
+/*background-color:expression('#EFF6FE,#FFFFFF'.split(',')[rowIndex%2]); */
+/*设置onmouseover事件*/
+/*onmouseover: expression(onmouseover=function (){this.style.borderColor ='blue';this.style.color='';this.style.backgroundColor ='#fdecae'});*/
+/*设置onmouseout事件*/
+/*onmouseout: expression(onmouseout=function (){this.style.borderColor='';this.style.color='';this.style.backgroundColor =''});*/
+/*}*/
+.myList td{
+   height: 22px;
+}
+/*********************************************************/
+
+/********************用于填写页面***********************/
+.myInputTitle{height:25px;background-color:#e0ecff;text-align:center;font-size: 13px;}
+.myInput{margin: auto;}
+.myInput td.head{height:30px;background-color:#cbf1c0;text-align:center;font-size:14px;font-weight: bold;}
+.myInput input[type="text"]{width: 70%;}
+.myInput input[type="password"]{width: 70%;}
+.myInput input{width:expression((this.type=="text"||this.type=="password")?"70%":"")}
+
+.btn {
+	BORDER-RIGHT: #2C59AA 1px solid;
+	PADDING-RIGHT: 2px;
+	BORDER-TOP: #2C59AA 1px solid;
+	PADDING-LEFT: 2px;
+	FONT-SIZE: 12px;
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,
+		StartColorStr=#ffffff, EndColorStr=#C3DAF5 );
+	BORDER-LEFT: #2C59AA 1px solid;
+	CURSOR: hand;
+	COLOR: black;
+	PADDING-TOP: 2px;
+	BORDER-BOTTOM: #2C59AA 1px solid
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+a:active {
+	color: black;
+	text-decoration: none;
+}
+
+.dataListTable1{BORDER-COLLAPSE: collapse;border: none;line-height:22px;margin:2px auto;}
+.dataListTable1 td{border: solid black 1px;font-size: 16px;}
+.dataListTable1 td p{font-size: 16px;padding-left: 5px;}
+.dataListTable1 th{background:#e0ecff;border: solid black 1px;height:20px;text-align: center; font:bold 16px/28px simsun;}
+.dataListTable1 tr:hover { background:#f1f1f1; cursor:pointer;}
+.dataListTable1 .btnCol{width:100px;}
+
+
+
+.bgt2 {
+	WIDTH: 1001px; BACKGROUND: url(../image/bgt2.gif) no-repeat 50% top
+}
+.bgm2 {
+	WIDTH: 1001px; BACKGROUND: url(../image/bgm2.gif) repeat-y
+}
+.bgb2 {
+	WIDTH: 1001px; BACKGROUND: url(../image/bgb2.gif) no-repeat 50% bottom
+}
+.boxcenter {
+	MARGIN: 0px auto
+}
+
+.flo {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 26px; LINE-HEIGHT: 29px; MARGIN-TOP: 42px; PADDING-LEFT: 100px; PADDING-RIGHT: 100px; FONT-FAMILY: "微软雅黑"; BACKGROUND: url(../image/flo.gif) no-repeat 50% bottom; COLOR: #004d8e; FONT-SIZE: 18px
+}
+
+.fb {
+	LINE-HEIGHT: 29px; COLOR: #4a4a4a
+}
+.fb A {
+	LINE-HEIGHT: 29px; COLOR: #4a4a4a
+}
+.fb A:hover {
+	COLOR: #0e57a1
+}
+
+.cpic {
+	TEXT-ALIGN: center; MARGIN: 24px auto 30px
+}
+.dlll {
+	LINE-HEIGHT: 26px; MARGIN: 0px auto 70px; WIDTH: 790px; COLOR: #040404; FONT-SIZE: 20px
+}
+
+.foot {
+	TEXT-ALIGN: center; MARGIN-TOP: 18px; WIDTH: 1001px; BACKGROUND: url(../image/footbg.gif) no-repeat; HEIGHT: 34px; COLOR: #636363
+}
+
+
+/*******************************************************/

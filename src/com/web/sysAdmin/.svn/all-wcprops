@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/java/!svn/ver/164/gfdzpt/src/com/web/sysAdmin
+END
+sysuserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/48/gfdzpt/src/com/web/sysAdmin/sysuserAction.java
+END
+Sys_messageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/Sys_messageAction.java
+END
+Sys_data_scopeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/Sys_data_scopeAction.java
+END
+sysrolesdicAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/sysrolesdicAction.java
+END
+codeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/codeAction.java
+END
+sysfuncdicAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/sysfuncdicAction.java
+END
+Sys_examine_limitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/Sys_examine_limitAction.java
+END
+LoginAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/164/gfdzpt/src/com/web/sysAdmin/LoginAction.java
+END
+codeCreateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/codeCreateAction.java
+END
+MessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/MessageAction.java
+END
+mrbranchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/mrbranchAction.java
+END
+CnToSpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/CnToSpAction.java
+END
+Sys_areaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/Sys_areaAction.java
+END
+Sys_uppicAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/Sys_uppicAction.java
+END
+Sys_approveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/12/gfdzpt/src/com/web/sysAdmin/Sys_approveAction.java
+END

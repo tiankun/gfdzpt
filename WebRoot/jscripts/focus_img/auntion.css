@@ -1,0 +1,25 @@
+﻿/*-------------------------公用样式---------------------------------*/
+    /*ul,li{margin:0;padding:0;border:0;outline:0;font-size:100%;font-style:normal;text-decoration:none}*/
+    
+    
+    /*.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0px;height:0px}*/
+    .clearfix:after{content:"\0020";display:block;height:0;clear:both}
+    .clearfix{_zoom:1}
+
+    /* 图片浏览组件 */
+    .at_imgSwitch {width:300px;height:200px;overflow:hidden;position:relative}    
+    .at_imgSwitch_c {width:auto;height:100%;overflow:hidden;position:absolute;top:0px;left:0px;z-index:1}
+    .at_imgSwitch_c li {width:auto;height:100%;overflow:hidden;float:left;margin:0;padding:0}
+    .at_imgSwitch_p {position:absolute;z-index:2;width:auto;height:auto;overflow:hidden}
+    .at_imgSwitch_p li {font-family:Arial;float:right;width:16px;height:17px;padding-top:1px;margin-top:2px;
+                        line-height:normal;overflow:hidden;cursor:pointer;text-align:center;background:#fff} 
+    .at_imgSwitch_p li.at_current {width:22px;height:22px;margin:0;padding:0;line-height:22px;font-size:16px;
+                                   font-weight:bold;background:#74A8ED;color:#fff}
+    /* 定义图片大小 */
+    .adcoind { }
+    .adcoind .adc_hd { float:left }/*图片大小设置，放到页面width:785px; height:220px;*/
+    .adcoind .adc_hd .at_imgSwitch_p li.at_current { background:#fe6f06 }
+    /*幻灯广告*/
+    .m_right .at_imgSwitch { width:auto; height:170px; margin-bottom:10px }
+    .adc_hd .at_imgSwitch { width:auto;  }/*数字列表位置，放到页面height:220px*/
+    .adcoind .adc_ed2 .at_imgSwitch { width:auto; height:148px }
